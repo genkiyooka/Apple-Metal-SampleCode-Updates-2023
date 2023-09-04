@@ -13,3 +13,6 @@
 [submodule "AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal"]
 	path = AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal
 	url = https://github.com/genkiyooka/AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal
+[submodule "AAPL-MixingMetalAndOpenGLRenderingInAView"]
+	path = AAPL-MixingMetalAndOpenGLRenderingInAView
+	url = https://github.com/genkiyooka/AAPL-MixingMetalAndOpenGLRenderingInAView
