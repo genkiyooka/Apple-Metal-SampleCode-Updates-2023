@@ -7,3 +7,6 @@
 [submodule "AAPL-MetalInstancedHelix"]
 	path = AAPL-MetalInstancedHelix
 	url = https://github.com/genkiyooka/AAPL-MetalInstancedHelix
+[submodule "AAPL-MetalVideoCapture"]
+	path = AAPL-MetalVideoCapture
+	url = https://github.com/genkiyooka/AAPL-MetalVideoCapture
