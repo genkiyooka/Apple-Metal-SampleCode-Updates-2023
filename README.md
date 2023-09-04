@@ -3,4 +3,4 @@ Minor bug fixes and updates to Apple Metal archived sample code from developer.a
 
 usage:
 
-git clone --recursive [htt](https://github.com/genkiyooka/Apple-Metal-SampleCode-Updates-2023/)https://github.com/genkiyooka/Apple-Metal-SampleCode-Updates-2023/
+git clone --recursive (https://github.com/genkiyooka/Apple-Metal-SampleCode-Updates-2023/)https://github.com/genkiyooka/Apple-Metal-SampleCode-Updates-2023/
