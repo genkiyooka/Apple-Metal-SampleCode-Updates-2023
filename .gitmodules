@@ -1,0 +1,9 @@
+[submodule "AAPL-MetalN-BodySimulation"]
+	path = AAPL-MetalN-BodySimulation
+	url = https://github.com/genkiyooka/AAPL-MetalN-BodySimulation
+[submodule "AAPL-AdoptingMetalIIDesigningandImplementingaReal-WorldMetalRenderer"]
+	path = AAPL-AdoptingMetalIIDesigningandImplementingaReal-WorldMetalRenderer
+	url = https://github.com/genkiyooka/AAPL-AdoptingMetalIIDesigningandImplementingaReal-WorldMetalRenderer
+[submodule "AAPL-MetalInstancedHelix"]
+	path = AAPL-MetalInstancedHelix
+	url = https://github.com/genkiyooka/AAPL-MetalInstancedHelix
