@@ -10,3 +10,6 @@
 [submodule "AAPL-MetalVideoCapture"]
 	path = AAPL-MetalVideoCapture
 	url = https://github.com/genkiyooka/AAPL-MetalVideoCapture
+[submodule "AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal"]
+	path = AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal
+	url = https://github.com/genkiyooka/AAPL-MetalGameOfLifeData-parallelProgrammingwiththeMTLComputeCommandEncoderinMetal
