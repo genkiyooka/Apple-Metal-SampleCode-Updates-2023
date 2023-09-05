@@ -16,3 +16,6 @@
 [submodule "AAPL-MixingMetalAndOpenGLRenderingInAView"]
 	path = AAPL-MixingMetalAndOpenGLRenderingInAView
 	url = https://github.com/genkiyooka/AAPL-MixingMetalAndOpenGLRenderingInAView
+[submodule "AAPL-ApplyingMatteEffectsToPeopleInImagesAndVideo"]
+	path = AAPL-ApplyingMatteEffectsToPeopleInImagesAndVideo
+	url = https://github.com/genkiyooka/AAPL-ApplyingMatteEffectsToPeopleInImagesAndVideo
